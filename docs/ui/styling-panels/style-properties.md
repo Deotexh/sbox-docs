@@ -39,7 +39,7 @@ Anything marked in **bold\*** may behave differently to how you'd expect on web.
 
 | Name | Parameters | Examples / Notes |
 |------|------------|------------------|
-| align-content | autoflex-endflex-startcenterstretchspace-betweenspace-aroundbaseline |                  |
+| align-content | auto / flex-start / flex-end / center / stretch / space-between / space-around / baseline |                  |
 | align-items | Same as `align-content` |                  |
 | align-self | Same as `align-content` |                  |
 | animation | Fills in the properties below |                  |
