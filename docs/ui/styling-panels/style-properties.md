@@ -39,9 +39,9 @@ Anything marked in **bold\*** may behave differently to how you'd expect on web.
 
 | Name | Parameters | Examples / Notes |
 |------|------------|------------------|
-| align-content | auto / flex-start / flex-end / center / stretch / space-between / space-around / baseline |                  |
-| align-items | Same as `align-content` |                  |
-| align-self | Same as `align-content` |                  |
+| align-content | flex-start / flex-end / center / stretch / space-between / space-around / baseline |                  |
+| align-items | flex-start / flex-end / center / stretch / baseline |                  |
+| align-self | auto / flex-start / flex-end / center / stretch / baseline |                  |
 | animation | Fills in the properties below |                  |
 | animation-delay | Float      |                  |
 | animation-direction | normal (default) reverse alternate alternate-reverse |                  |
@@ -131,7 +131,7 @@ Anything marked in **bold\*** may behave differently to how you'd expect on web.
 | gap  | Length, Length (optional) | Shorthand for `row-gap` and `column-gap`, specified the size of gutters. |
 | height | Length     |                  |
 | image-rendering | auto (default) / anisotropic / bilinear / trilinear / point / pixelated / nearest-neighbour |                  |
-| justify-content | Same as `align-content` |                  |
+| justify-content | flex-start / flex-end / center / stretch / space-between / space-around |                  |
 | left | Length     |                  |
 | letter-spacing | Length / normal |                  |
 | line-height | Length     |                  |
